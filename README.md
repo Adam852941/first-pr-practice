@@ -4,7 +4,7 @@ This repository exists so I can practice the full GitHub pull request workflow: 
 
 ## About
 
-This is a small pratice project used to learn how pull requests work on GitHub.
+This is a small practice project used to learn how pull requests work on GitHub.
 
 ## Status
 
